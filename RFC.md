@@ -1,6 +1,4 @@
-# Cortem as cabeças. 
-
-Especificação do projeto http://contratos.paraondefoiomeudinheiro.com.br/
+# contratos.paraondefoiomeudinheiro.com.br/
 
 ## Introdução
 
@@ -101,5 +99,7 @@ O perfil terá a possibilidade de ser verificado ou não pela equipe da platafor
 -> meta-dados
 -> documento
 
+# Desenvolvimento e validação inicial
 
+* http://transparencia.prefeitura.sp.gov.br/contas/Paginas/Contratos-v2.aspx
 
